@@ -1,4 +1,3 @@
-Here’s a well-structured `README.md` for your **Paste App** built using **React**, **Redux**, and **Tailwind CSS**:
 
 ---
 
@@ -65,7 +64,7 @@ npm install
 ### 3. Start the development server
 
 ```bash
-npm srun dev
+npm run dev
 ```
 
 Visit `http://localhost:5173` in your browser.
